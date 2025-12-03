@@ -1,6 +1,10 @@
 {
-  "name": "FootFund Token",
+  "name": "FootFund",
   "symbol": "FFUND",
-  "description": "Token officiel FootFund - Football Amateur",
-  "logo": "logo.png"
+  "decimals": 18,
+  "description": "FootFund (FFUND) est un token Web3 conçu pour soutenir, financer et dynamiser des projets liés au football amateur.",
+  "image": "https://raw.githubusercontent.com/hamelincyril529-png/footfund-metadata/main/FFUND/logo.png",
+  "website": "",
+  "socials": {}
 }
+
