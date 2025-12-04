@@ -1,0 +1,19 @@
+{
+  "name": "FootFund Token List",
+  "timestamp": "2025-12-04T20:30:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xa68416D74CA66c2C35A405F35541563cb0CC0DBB",
+      "name": "FootFund",
+      "symbol": "FFUND",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/<<<TON_USER_GITHUB>>/<<<TON_REPO>>>/main/FFUND/logo.png"
+    }
+  ]
+}
